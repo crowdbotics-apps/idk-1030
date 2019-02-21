@@ -1,0 +1,3 @@
+rootProject.name = 'idk_1030'
+
+include ':app'
